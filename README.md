@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BigBoyTaco
 - 👀 I’m interested in python, game dev, and networking
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python amd c#
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me Taco#5661 on discord
 
