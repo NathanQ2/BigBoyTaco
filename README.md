@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BigBoyTaco
 
-Don't count on any of my repos to work frfr
+Don't count on any of my repos to working/being maintained frfr
 
 <!---
 BigBoyTaco/BigBoyTaco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
