@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @BigBoyTaco
 
-Don't count on any of my repos to working/being maintained frfr
+Don't count on any of my repos to:
+- work
+- be fast
+- be easy to use
+- be neat
+- interesting
+basically I suck at this.
+
 
 <!---
 BigBoyTaco/BigBoyTaco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
