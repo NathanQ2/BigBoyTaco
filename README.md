@@ -5,7 +5,7 @@ Don't count on any of my repos to:
 - be fast
 - be easy to use
 - be neat
-- interesting
+- be interesting
 
 basically I suck at this.
 
