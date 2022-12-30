@@ -7,8 +7,6 @@ Don't count on any of my repos to:
 - be neat
 - be interesting
 
-ID: 12122022/10790804
-
 <!---
 BigBoyTaco/BigBoyTaco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
