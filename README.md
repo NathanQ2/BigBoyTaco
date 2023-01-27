@@ -1,11 +1,18 @@
 - 👋 Hi, I’m @BigBoyTaco
 
+C# enjoyer.
+Languages ik:
+- C# (fav)
+- C++ (a lil more than a lil)
+- Java (a lil)
+- Python
+- Swift UI (a lil)
+
 Don't count on any of my repos to:
 - work
 - be fast
 - be easy to use
 - be neat
-- be interesting
 
 <!---
 BigBoyTaco/BigBoyTaco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
