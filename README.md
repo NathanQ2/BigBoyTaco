@@ -2,10 +2,10 @@
 
 C# enjoyer.
 
-Languages ik:
+Languages I know:
 - C# (fav)
 - C++ (a lil more than a lil)
-- Java (a lil)
+- Java
 - Python
 - Swift UI (a lil)
 
